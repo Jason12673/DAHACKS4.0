@@ -1,0 +1,16 @@
+xp.textContent = '+50XP';
+  
+xp.style.position = 'fixed';
+  
+xp.style.top = '50%';
+ 
+xp.style.left = '50%';
+  
+xp.style.transform = 'translate(-50%, -50%)';
+  
+  xp.style.fontSize = '2em';
+  xp.style.color = 'gold';
+  xp.style.background = 'rgba(0,0,0,0.7)';
+  xp.style.padding = '20px';
+  xp.style.borderRadius = '10px';
+  xp.style.zIndex = '9999';
